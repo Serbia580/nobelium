@@ -15,8 +15,7 @@ export default {
           DEFAULT: config.darkBackground || '#111827'
         }
       },
-     fontFamily: {
-        lxgw: ['LXGWBrightGB-Regular', 'sans-serif'],
+      fontFamily: {
         sans: FONTS_SANS,
         serif: FONTS_SERIF,
         noEmoji: [
